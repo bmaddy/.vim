@@ -1,0 +1,7 @@
+abolish.vim:
+
+crs - coerce to snake_case
+crm - coerce to MixedCase
+crc - coerce to camelCase
+cru - coerce to UPPER_CASE
+
