@@ -45,6 +45,9 @@ autocmd FileType ruby,eruby let g:rubycomplete_classes_in_global = 1
 "improve autocomplete menu color
 highlight Pmenu ctermbg=238 gui=bold
 
+"python
+autocmd FileType python setlocal tabstop=4 shiftwidth=4 softtabstop=4
+
 runtime macros/matchit.vim
 
 " Custom key mappings
